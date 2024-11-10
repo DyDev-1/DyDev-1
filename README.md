@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DyDev-1
+- 👋 Hi, I’m Longdy Call Me Dy
 - 👀 I’m interested in Javascript Tech 
 - 🌱 I’m currently learning Nest JS, React, Next JS.
 
